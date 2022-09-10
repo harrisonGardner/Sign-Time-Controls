@@ -1,0 +1,16 @@
+﻿  GameFunctions.cpp
+  Internals.cpp
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(74,156): warning C4244: 'argument': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(74,102): warning C4244: 'argument': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(80,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(131,140): warning C4244: 'argument': conversion from 'float' to 'uint16_t', possible loss of data
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(131,104): warning C4244: 'argument': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\ProjectFiles\Source\Mod.cpp(160,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\x64\Release\Code.lib and object C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\x64\Release\Code.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 249 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Code.vcxproj -> C:\Users\bacon\Desktop\Time Controller Update 52\ProjectFolder\x64\Release\Code.dll
+          1 file(s) copied.
+  Press any key to continue . . . 
